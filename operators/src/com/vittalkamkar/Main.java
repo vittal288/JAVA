@@ -46,9 +46,9 @@ public class Main {
         double remainder = dRes1 % 40;
 
         if(remainder > 10){
-            System.out.println("Total was over the Limit");
+            System.out.println("Total was over the Limit 456");
         }else{
-            System.out.println("Total was under the Limit");
+            System.out.println("Total was under the Limit 123");
         }
 
     }
