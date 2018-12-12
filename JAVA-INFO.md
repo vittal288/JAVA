@@ -42,3 +42,5 @@
 #### INSTANCE METHODS:
 + Instance methods belongs to an instance of a class 
 + Instance method can access static methods and static variables directly 
+
+### COMPOSITION 
